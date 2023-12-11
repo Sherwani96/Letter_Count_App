@@ -1,0 +1,1 @@
+A simple CLI based App which counts no. of letters
